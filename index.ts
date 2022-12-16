@@ -15,3 +15,4 @@ export class MyFunctions {
 const myFunctions = new MyFunctions();
 
 myFunctions.calculateAverage(myGrades);
+
