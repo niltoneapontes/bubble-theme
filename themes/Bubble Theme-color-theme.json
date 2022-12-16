@@ -1022,14 +1022,14 @@
       "name": "Source Json Meta Structure Dictionary Json > String Quoted Json",
       "scope": "source.json meta.structure.dictionary.json > string.quoted.json",
       "settings": {
-        "foreground": "#ff912f"
+        "foreground": "#ff45d0"
       }
     },
     {
       "name": "Source Json Meta Structure Dictionary Json > String Quoted Json > Punctuation String",
       "scope": "source.json meta.structure.dictionary.json > string.quoted.json > punctuation.string",
       "settings": {
-        "foreground": "#ff912f"
+        "foreground": "#F0F0F0"
       }
     },
     {
@@ -1120,7 +1120,7 @@
       "name": "php types",
       "scope": "storage.type.php,meta.other.type.phpdoc.php,keyword.other.type.php,keyword.other.array.phpdoc.php",
       "settings": {
-        "foreground": "#ff45d0"
+        "foreground": "#009dff"
       }
     },
     {
@@ -1260,7 +1260,7 @@
       "name": "ts primitive/builtin types",
       "scope": "support.type.primitive.ts,support.type.builtin.ts,support.type.primitive.tsx,support.type.builtin.tsx",
       "settings": {
-        "foreground": "#ff45d0"
+        "foreground": "#009dff"
       }
     },
     {
@@ -1567,7 +1567,7 @@
       "name": "types",
       "scope": ["support.type.swift", "support.type.vb.asp"],
       "settings": {
-        "foreground": "#ff45d0"
+        "foreground": "#009dff"
       }
     },
     {
@@ -1854,7 +1854,7 @@
     "editorError.foreground": "#ff512e",
     "editorError.background": "#B73A3400",
     "editorError.border": "#ffffff00",
-    "editorWarning.foreground": "#ffd100",
+    "editorWarning.foreground": "#ffde4b",
     "editorWarning.background": "#A9904000",
     "editorWarning.border": "#ffffff00",
     "editorInfo.foreground": "#75beff",
@@ -1930,7 +1930,7 @@
     "notifications.background": "#171c2a",
     "notificationToast.border": "#ffffff14",
     "notificationsErrorIcon.foreground": "#d73838",
-    "notificationsWarningIcon.foreground": "#bb9d26",
+    "notificationsWarningIcon.foreground": "#ffde4b",
     "notificationsInfoIcon.foreground": "#26bb76",
     "notificationCenter.border": "#777777",
     "notificationCenterHeader.foreground": "#ececec",
@@ -1947,7 +1947,7 @@
     "gitDecoration.untrackedResourceForeground": "#73c991",
     "editorMarkerNavigation.background": "#2d2d30",
     "editorMarkerNavigationError.background": "#f48771",
-    "editorMarkerNavigationWarning.background": "#cca700",
+    "editorMarkerNavigationWarning.background": "#ffde4b",
     "editorMarkerNavigationInfo.background": "#75beff",
     "merge.currentHeaderBackground": "#367366",
     "merge.currentContentBackground": "#27403B",
@@ -1990,7 +1990,7 @@
     "minimap.findMatchHighlight": "#515c6a",
     "minimap.selectionHighlight": "#272b3d",
     "minimap.errorHighlight": "#ff512e",
-    "minimap.warningHighlight": "#ffd100",
+    "minimap.warningHighlight": "#ffde4b",
     "minimap.background": "#181b28",
     "sideBar.dropBackground": "#21263d",
     "editorGroup.emptyBackground": "#181b28",
