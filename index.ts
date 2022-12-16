@@ -8,3 +8,4 @@ const calculateAverage = (grades: number[]) => {
 }
 
 calculateAverage(myGrades);
+
