@@ -412,7 +412,7 @@
       "name": "js dom variable",
       "scope": "support.variable.dom,support.variable.property.dom",
       "settings": {
-        "foreground": "#ffa04e"
+        "foreground": "#e757f4"
       }
     },
     {
@@ -778,7 +778,7 @@
       "name": "Tags",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#ffa04e"
+        "foreground": "#e757f4"
       }
     },
     {
@@ -864,7 +864,7 @@
       "name": "[VSCODE-CUSTOM] Markdown headings",
       "scope": "entity.name.section.markdown",
       "settings": {
-        "foreground": "#ffa04e"
+        "foreground": "#e757f4"
       }
     },
     {
