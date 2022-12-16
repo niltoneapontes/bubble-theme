@@ -1,8 +1,9 @@
 {
-  "name": "super-theme",
-  "displayName": "super-theme",
-  "description": "",
+  "name": "bubble-theme",
+  "displayName": "Bubble Theme",
+  "description": "🫧",
   "version": "1.0.0",
+  "icon": "icon.png",
   "publisher": "NiltonPontes",
   "engines": {
     "vscode": "^1.74.0"
@@ -11,7 +12,7 @@
     "Themes"
   ],
   "repository": {
-    "url": "https://github.com/niltoneapontes/super-theme.git"
+    "url": "https://github.com/niltoneapontes/bubble-theme.git"
   },
   "keywords": [
     "vscode",
@@ -22,9 +23,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Super Theme",
+        "label": "Bubble Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Super Theme-color-theme.json"
+        "path": "./themes/Bubble Theme-color-theme.json"
       }
     ]
   }
