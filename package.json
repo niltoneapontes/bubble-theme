@@ -1,0 +1,31 @@
+{
+  "name": "super-theme",
+  "displayName": "super-theme",
+  "description": "",
+  "version": "1.0.0",
+  "publisher": "NiltonPontes",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "url": "https://github.com/niltoneapontes/super-theme.git"
+  },
+  "keywords": [
+    "vscode",
+    "dark",
+    "theme",
+    "super"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Super Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Super Theme-color-theme.json"
+      }
+    ]
+  }
+}
