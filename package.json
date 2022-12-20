@@ -25,7 +25,12 @@
       {
         "label": "Bubble Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Bubble Theme-color-theme.json"
+        "path": "./themes/bubble.json"
+      },
+      {
+        "label": "Bubble Theme Soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bubble-soft.json"
       }
     ]
   }
