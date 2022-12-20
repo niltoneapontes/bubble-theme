@@ -390,6 +390,20 @@
       }
     },
     {
+      "name": "jsx variable readwrite",
+      "scope": "variable.other.readwrite.alias.jsx,meta.imports.jsx,meta.block.jsx",
+      "settings": {
+        "foreground": "#f0f0f0"
+      }
+    },
+    {
+      "name": "tsx variable readwrite",
+      "scope": "variable.other.readwrite.alias.tsx,meta.imports.tsx,meta.block.tsx",
+      "settings": {
+        "foreground": "#f0f0f0"
+      }
+    },
+    {
       "name": "js/ts json",
       "scope": "support.constant.json",
       "settings": {
