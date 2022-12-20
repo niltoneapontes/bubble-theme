@@ -57,19 +57,48 @@
       }
     },
     {
-      "name": "async",
-      "scope": "async",
-      "settings": {
-        "foreground": "#e757f4"
-      }
-    },
-    {
       "name": "storage.modifier.lifetime.rust",
       "scope": "storage.modifier.lifetime.rust",
       "settings": {
         "foreground": "#f0f0f0"
       }
     },
+    {
+      "name": "storage.modifier.async.ts",
+      "scope": "storage.modifier.async.ts",
+      "settings": {
+        "foreground": "#e757f4"
+      }
+    },
+    {
+      "name": "storage.modifier.async.js",
+      "scope": "storage.modifier.async.js",
+      "settings": {
+        "foreground": "#e757f4"
+      }
+    },
+    {
+      "name": "storage.modifier.async.js",
+      "scope": "storage.modifier.async.js",
+      "settings": {
+        "foreground": "#e757f4"
+      }
+    },
+    {
+      "name": "js/ts Keyword",
+      "scope": "keyword.control.flow.js",
+      "settings": {
+        "foreground": "#e757f4"
+      }
+    },
+    {
+      "name": "js/ts Keyword",
+      "scope": "keyword.control.flow.ts",
+      "settings": {
+        "foreground": "#e757f4"
+      }
+    },
+    
     {
       "name": "support.function.std.rust",
       "scope": "support.function.std.rust",
