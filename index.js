@@ -1,23 +1,20 @@
 const myGrades = [5, 10, 9];
 
-
 export class MyFunctions {
-  constructor() {
-  }
-  
-  calculateAverage = (grades: number[]) => {
-    const sum = grades.reduce((acc, value) => acc += value, 0);
+  constructor() {}
+
+  calculateAverage = (grades) => {
+    const sum = grades.reduce((acc, value) => (acc += value), 0);
     const exams = grades.length;
-  
-    return sum/exams;
-  }
+
+    return sum / exams;
+  };
 }
 
-const newFunction = async() => {
+const newFunction = async () => {
   await something();
-}
+};
 
 const myFunctions = new MyFunctions();
 
 myFunctions.calculateAverage(myGrades);
-

@@ -145,7 +145,7 @@
       "name": "punctuation.definition",
       "scope": "punctuation.definition.string.begin,punctuation.definition.string.end",
       "settings": {
-        "foreground": "#ffe067"
+        "foreground": "#FFE684"
       }
     },
     {
@@ -180,7 +180,7 @@
       "name": "inserted.diff",
       "scope": "markup.inserted.diff",
       "settings": {
-        "foreground": "#ffe067"
+        "foreground": "#FFE684"
       }
     },
     {
@@ -373,6 +373,20 @@
       "scope": "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
       "settings": {
         "foreground": "#ffa04e"
+      }
+    },
+    {
+      "name": "js variable readwrite",
+      "scope": "meta.imports.js",
+      "settings": {
+        "foreground": "#f0f0f0"
+      }
+    },
+    {
+      "name": "ts variable readwrite",
+      "scope": "meta.imports.ts",
+      "settings": {
+        "foreground": "#f0f0f0"
       }
     },
     {
@@ -772,7 +786,7 @@
       "name": "Strings",
       "scope": "string",
       "settings": {
-        "foreground": "#ffe067"
+        "foreground": "#FFE684"
       }
     },
     {
@@ -935,14 +949,14 @@
       "name": "[VSCODE-CUSTOM] Markdown Inline Raw",
       "scope": "markup.inline.raw.markdown",
       "settings": {
-        "foreground": "#ffe067"
+        "foreground": "#FFE684"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] Markdown Inline Raw",
       "scope": "markup.inline.raw.string.markdown",
       "settings": {
-        "foreground": "#ffe067"
+        "foreground": "#FFE684"
       }
     },
     {
@@ -1072,7 +1086,7 @@
       "name": "Source Json Meta Structure Dictionary Json > Value Json > String Quoted Json,source Json Meta Structure Array Json > Value Json > String Quoted Json,source Json Meta Structure Dictionary Json > Value Json > String Quoted Json > Punctuation,source Json Meta Structure Array Json > Value Json > String Quoted Json > Punctuation",
       "scope": "source.json meta.structure.dictionary.json > value.json > string.quoted.json,source.json meta.structure.array.json > value.json > string.quoted.json,source.json meta.structure.dictionary.json > value.json > string.quoted.json > punctuation,source.json meta.structure.array.json > value.json > string.quoted.json > punctuation",
       "settings": {
-        "foreground": "#ffe067"
+        "foreground": "#FFE684"
       }
     },
     {
@@ -1401,28 +1415,28 @@
       "name": "js template literals begin",
       "scope": ["keyword.other.template.begin"],
       "settings": {
-        "foreground": "#ffe067"
+        "foreground": "#FFE684"
       }
     },
     {
       "name": "js template literals end",
       "scope": ["keyword.other.template.end"],
       "settings": {
-        "foreground": "#ffe067"
+        "foreground": "#FFE684"
       }
     },
     {
       "name": "js template literals variable braces begin",
       "scope": ["keyword.other.substitution.begin"],
       "settings": {
-        "foreground": "#ffe067"
+        "foreground": "#FFE684"
       }
     },
     {
       "name": "js template literals variable braces end",
       "scope": ["keyword.other.substitution.end"],
       "settings": {
-        "foreground": "#ffe067"
+        "foreground": "#FFE684"
       }
     },
     {
@@ -1526,7 +1540,7 @@
       "name": "Ini Default Text",
       "scope": ["source.ini"],
       "settings": {
-        "foreground": "#ffe067"
+        "foreground": "#FFE684"
       }
     },
     {
@@ -1568,7 +1582,7 @@
       "name": "Groovy Inheritance",
       "scope": ["meta.definition.class.inherited.classes.groovy"],
       "settings": {
-        "foreground": "#ffe067"
+        "foreground": "#FFE684"
       }
     },
     {
@@ -1652,7 +1666,7 @@
       "name": "string",
       "scope": ["beginning.punctuation.definition.quote.markdown.xi"],
       "settings": {
-        "foreground": "#ffe067"
+        "foreground": "#FFE684"
       }
     },
     {
