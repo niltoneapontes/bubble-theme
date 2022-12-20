@@ -57,6 +57,13 @@
       }
     },
     {
+      "name": "async",
+      "scope": "async",
+      "settings": {
+        "foreground": "#e757f4"
+      }
+    },
+    {
       "name": "storage.modifier.lifetime.rust",
       "scope": "storage.modifier.lifetime.rust",
       "settings": {
