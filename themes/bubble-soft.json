@@ -10,7 +10,7 @@
       "foreground": "#8ea5ff"
     },
     "variable.defaultLibrary": {
-      "foreground": "#f0f0f0"
+      "foreground": "#e757f4"
     }
   },
   "tokenColors": [
@@ -236,7 +236,7 @@
       "name": "js/ts variable.other.constant",
       "scope": "variable.other.constant",
       "settings": {
-        "foreground": "#f0f0f0"
+        "foreground": "#e757f4"
       }
     },
     {
@@ -602,7 +602,7 @@
       "name": "Java Variables",
       "scope": "token.variable.parameter.java",
       "settings": {
-        "foreground": "#f0f0f0"
+        "foreground": "#e757f4"
       }
     },
     {
