@@ -377,14 +377,14 @@
     },
     {
       "name": "js variable readwrite",
-      "scope": "meta.imports.js",
+      "scope": "variable.other.readwrite.alias.js,meta.imports.js,meta.block.js",
       "settings": {
         "foreground": "#f0f0f0"
       }
     },
     {
       "name": "ts variable readwrite",
-      "scope": "meta.imports.ts",
+      "scope": "variable.other.readwrite.alias.ts,meta.imports.ts,meta.block.ts",
       "settings": {
         "foreground": "#f0f0f0"
       }
