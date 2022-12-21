@@ -1,5 +1,3 @@
-import {something} from 'somewhere';
-
 const myGrades = [5, 10, 9];
 
 export class MyFunctions {
@@ -12,10 +10,6 @@ export class MyFunctions {
   
     return sum/exams;
   }
-}
-
-const newFunction = async() => {
-  await something();
 }
 
 const myFunctions = new MyFunctions();

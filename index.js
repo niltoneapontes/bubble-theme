@@ -11,10 +11,6 @@ export class MyFunctions {
   };
 }
 
-const newFunction = async () => {
-  await something();
-};
-
 const myFunctions = new MyFunctions();
 
 myFunctions.calculateAverage(myGrades);
