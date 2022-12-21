@@ -2,7 +2,6 @@ import {something} from 'somewhere';
 
 const myGrades = [5, 10, 9];
 
-
 export class MyFunctions {
   constructor() {
   }
